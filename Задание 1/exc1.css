@@ -1,0 +1,28 @@
+
+  .btn-icon {
+    background-image: url(svg/arrow.svg);
+    display: flex;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-size: cover;
+    margin-left: 10px;
+  }
+
+  .btn-icon_fill {
+    background-image: url(svg/arrow-fill.svg);
+    display: flex;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background-size: cover;
+    margin-left: 10px;
+  }
+
+  .btn {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15%;
+    cursor: pointer;
+  }
